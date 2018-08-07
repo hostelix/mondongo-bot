@@ -1,0 +1,28 @@
+{
+  "name": "mondongo-bot",
+  "version": "1.0.0",
+  "description": "Mondongo bot telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hostelix/mondongo-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram-bot",
+    "teleram-api"
+  ],
+  "author": "Israel Lugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hostelix/mondongo-bot/issues"
+  },
+  "homepage": "https://github.com/hostelix/mondongo-bot#readme",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
